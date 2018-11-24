@@ -5,7 +5,9 @@
 
 **Speaker:** Senior Data Scientist Adam Karwan, PhD - Groupon
 
-**Title:** [Applying Artificial Intelligence Methods to Business Process Automation](https://github.com/SkyhacksPL/Talks/blob/master/_1-skyhacks/16Nov2018_Skyhacks_Groupon_akarwan.pdf)
+**Title:** Applying Artificial Intelligence Methods to Business Process Automation
+
+**Slides:** https://github.com/SkyhacksPL/Talks/blob/master/_1-skyhacks/16Nov2018_Skyhacks_Groupon_akarwan.pdf
 
 **Summary:**
 1. Why Data Science? 
