@@ -2,6 +2,9 @@
 
 ### #1 skyhacks: November 16-18th 2018, Gliwice
 #### Event page: https://skygate.io/skyhacks
+##### Adam Karwan, PhD - Groupon - Applying Artificial Intelligence Methods to Business Process Automation
+##### Tomasz Kopacz - Microsoft - Various methods to create Machine Learning Models in Azure - from graphical to managing models in Python. Computational Clusters (with GPU) - in the background.
+
 
 **Speaker:** Senior Data Scientist Adam Karwan, PhD - Groupon
 
@@ -23,3 +26,22 @@
   a. Multiple Text Classification  
   b. Deep Learning vs Standard NLP approach  
 5. Summary  
+
+
+**Speaker:** Tomasz Kopacz, CEE ISV Technical Recruit Lead - Microsoft
+
+**Title:** Various methods to create Machine Learning Models in Azure - from graphical to managing models in Python. Computational Clusters (with GPU) - in the background.
+
+**Slides:** https://github.com/SkyhacksPL/Talks/blob/master/_1-skyhacks/20181116_AIMSStart.pdf
+
+**Summary:** 
+A walk trough number of definitions related with ML + Python + Azure Platform + GPU, includes topics like:
+- Microsoft Independent Software Cendor (ISV), 
+- Artificial Intelligence Terms, 
+- Microsoft Cognitive Toolkit (CNTK), 
+- Workflow with Azure, 
+- Why Python?
+- Pascal Generation GPUs / NVIDIA, 
+- Batch Services, 
+- Microsoft Azure Machine Learning Studio
+- And much more!
