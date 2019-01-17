@@ -53,7 +53,7 @@ A walk trough number of definitions related with ML + Python + Azure Platform + 
 - And much more!
 
 
-### #1 skytalks: January 16th 2018, Gliwice
+### #1 skytalks: January 16th 2019, Gliwice
 #### Event page: https://skygate.io/skyhacks/1-skytalks/
 ##### 1. [Karthik Muthuswamy - SAP, Google Developer Expert for Machine Learning](#talks-karthik-sap)
 ##### 2. [Jair Ribeiro - Volvo Group](#talks-jair-volvo)
