@@ -1,5 +1,11 @@
 # Talks
 
+This is a list of past talks in the **skyhacks** events.
+
+**skyhacks** homepage: https://www.meetup.com/pl-PL/skyevents/
+
+You can also find us on [Facebook](https://www.facebook.com/skyhacks.poland/), [Instagram](https://www.instagram.com/skyhacks.poland/) and [skygate.io](https://skygate.io/skyhacks/)
+
 ### #1 skyhacks: November 16-18th 2018, Gliwice
 #### Event page: https://skygate.io/skyhacks
 ##### 1. [Adam Karwan, PhD - Groupon - Applying Artificial Intelligence Methods to Business Process Automation](#talks-adam-groupon)
