@@ -65,7 +65,7 @@ A walk trough number of definitions related with ML + Python + Azure Platform + 
 
 **Title:** Build and Serve Machine Learning Models in the Browser using TensorFlowJS – learn how to build a neural network on a browser.
 
-**Slides:** 
+**Slides:** https://github.com/SkyhacksPL/Talks/blob/master/_1-skytalks/Build%20and%20Serve%20Machine%20Learning%20Models%20in%20the%20Browser%20using%20TensorFlowJS.pdf
 
 **Summary:**
 The goal of this talk was to introduce development of machine learning applications using JavaScript and Python. Participants learnt how to use TensorFlow to train and deploy a trained model directly from the browser, using Google’s training infrastructure. Participants who were new to machine learning learnt basics concepts of machine learning while participants who already had some basic knowledge of machine learning learnt about how to leverage Google’s training resources to speedup training and create machine learning applications on the browser.
