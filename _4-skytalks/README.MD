@@ -1,4 +1,4 @@
-**4 skytalks – AI MEETUP was an event organized by**
+## 4 skytalks – AI MEETUP was an event organized by
 
 skygate
 EESTEC LC Gliwice
