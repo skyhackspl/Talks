@@ -27,6 +27,7 @@ Tomasz Smolarczyk – Head of Data Science at Infermedica
 Piotr Gawron – Institute Professor at Institute of Theoretical and Applied Informatics
 
 **More info about this and next meetups like this?**
+
 https://www.meetup.com/pl-PL/skyevents/events/258321757/
 https://www.meetup.com/pl-PL/skyevents/
 https://www.facebook.com/skyhacks.poland/
