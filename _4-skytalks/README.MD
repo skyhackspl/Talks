@@ -4,10 +4,6 @@ skygate
 EESTEC LC Gliwice
 IEEE Silesian University of Technology Student Branch
 
-**patronage▮**
-
-The Faculty of Applied Mathematics of the Silesian University of Technology has taken our #2 skyconf with honorary patronage
-
 **topics▮**
 
 Artificial Intelligence, Machine Learning, Deep Learning, Statistics, and Data Science
