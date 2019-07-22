@@ -1,8 +1,8 @@
 ## 4 skytalks – AI MEETUP was an event organized by
 
-skygate
-EESTEC LC Gliwice
-IEEE Silesian University of Technology Student Branch
+- skygate
+- EESTEC LC Gliwice
+- IEEE Silesian University of Technology Student Branch
 
 **topics▮**
 
