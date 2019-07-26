@@ -1,4 +1,4 @@
-##Here you will find materials for learning quantum computing: 
+## Here you will find materials for learning quantum computing: 
 
 [The beginners' handbook](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993/ "
 The beginners' handbook")
