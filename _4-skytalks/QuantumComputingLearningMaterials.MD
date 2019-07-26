@@ -10,7 +10,7 @@ A very well-known handbook")
 [Interesting lecture notes](https://cs.uwaterloo.ca/~watrous/LectureNotes.html "
 Interesting lecture notes")
 
-[Notes from the lectures of one of the "gods" of quantum computing](https://www.scottaaronson.com/blog/?p=3943 "
-Notes from the lectures of one of the "gods" of quantum computing")
+[Notes from the lectures of one of the gods of quantum computing](https://www.scottaaronson.com/blog/?p=3943 "
+Notes from the lectures of one of the gods of quantum computing")
 
 
